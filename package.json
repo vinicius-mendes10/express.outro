@@ -1,0 +1,30 @@
+{
+  "name": "express.outro",
+  "version": "1.0.0",
+  "description": "Repositório para criarmos um servidor node através do framework express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/vinicius-mendes10/express.outro.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Marcelo Diament",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-mendes10/express.outro.git"
+  },
+  "homepage": "https://github.com/vinicius-mendes10/express.outro.git",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
